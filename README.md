@@ -23,6 +23,6 @@ Hệ thống bao gồm các chức năng chính:
 
 | STT | Họ và Tên | Vai trò chính | Phân công nhiệm vụ cụ thể |
 |:---:|---|:---:|---|
-| **1** | **Bùi Hoàng Gia Huy** *(Nhóm trưởng)* | Team Leader & Database Developer | • Phân tích yêu cầu và thiết kế tổng thể hệ thống quản lý FPT Shop.<br>• Thiết kế cơ sở dữ liệu SQL Server.<br>• Lập trình chức năng quản lý sản phẩm và danh mục sản phẩm.<br>• Điều phối tiến độ và quản lý mã nguồn GitHub. |
-| **2** | **Đinh Xuân Trường** | Frontend Developer | • Thiết kế giao diện phần mềm quản lý cửa hàng.<br>• Xây dựng giao diện đăng nhập và quản lý nhân viên.<br>• Lập trình chức năng quản lý khách hàng.<br>• Tối ưu giao diện và trải nghiệm người dùng. |
-| **3** | **Nguyễn Quang Huy** | Backend Developer & Tester | • Lập trình chức năng quản lý bán hàng và lập hóa đơn.<br>• Xây dựng chức năng quản lý nhập hàng và tồn kho.<br>• Phát triển chức năng thống kê doanh thu và báo cáo.<br>• Kiểm thử chức năng và sửa lỗi phần mềm. |
+| **1** | **Bùi Hoàng Gia Huy**| Nhóm trưởng | • Phân tích yêu cầu và thiết kế tổng thể hệ thống quản lý FPT Shop.<br>• Thiết kế cơ sở dữ liệu SQL Server.<br>• Lập trình chức năng quản lý sản phẩm và danh mục sản phẩm.<br>• Điều phối tiến độ và quản lý mã nguồn GitHub. |
+| **2** | **Đinh Xuân Trường** | Thành viên | • Thiết kế giao diện phần mềm quản lý cửa hàng.<br>• Xây dựng giao diện đăng nhập và quản lý nhân viên.<br>• Lập trình chức năng quản lý khách hàng.<br>• Tối ưu giao diện và trải nghiệm người dùng. |
+| **3** | **Nguyễn Quang Huy** |Thành viên | • Lập trình chức năng quản lý bán hàng và lập hóa đơn.<br>• Xây dựng chức năng quản lý nhập hàng và tồn kho.<br>• Phát triển chức năng thống kê doanh thu và báo cáo.<br>• Kiểm thử chức năng và sửa lỗi phần mềm. |
